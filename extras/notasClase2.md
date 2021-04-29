@@ -21,3 +21,14 @@
 
     git commit --amend
 
+
+> primer caso, cuando guardamos archivo y cerramos editor sin agrgar ni a Sting Area ni a Repositorio
+    git diff
+    git checkout -- archivo
+
+> segundo caso cuando guardamos archivo, cerramos editor y SI agregamos a Staging Area
+
+   git diff
+   git restore --staged archivo
+   git checkout -- archivo
+
