@@ -14,3 +14,10 @@
 
 > Agregamos a base de datos con un mensaje descriptivo
 
+
+## Solucionando errores locales
+
+> cuando cometemos un error de tipeo en el commit, podemos solucionarlo "SI ES EL ULTIMO COMMIT" con el comando 
+
+    git commit --amend
+
