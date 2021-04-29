@@ -32,3 +32,7 @@
    git restore --staged archivo
    git checkout -- archivo
 
+> tercer caso cuando guardamos, cerramos editor, agregarmos al Staging Area y Comiteamos!!!
+
+    git reset --hard b8ca7bb29ac03f
+
